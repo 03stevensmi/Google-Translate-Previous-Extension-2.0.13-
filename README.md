@@ -23,7 +23,7 @@ But For a short and simple tutorial:
 Download the .crx file from the releases page here:
 https://github.com/03stevensmi/Google-Translate-Previous-Extension-2.0.13-/releases/,
 
-Go to extention setting on browser,
+Go to the Manage Extentions setting on browser,
 
 Enable developer mode,
 
