@@ -18,18 +18,20 @@ but a .com exe that i would put money on that it's a virus.
 Here is the tutorial for installing this extention: https://youtu.be/fjP08B_E80
 
 
-But in short,
+But For a short and simple tutorial:
 
-Unzip the file,
-
+Download the .crx file in the releases page here: ,
 Go to extention setting on browser,
 
 Enable developer mode,
 
-Click load unpacked,
+Drag and drop the crx file to the browser,
 
-Open up the folder inside,
+Done!
 
-Select & Done!
+
+If that doesn't work,
+
+Then follow the other instructions on the YouTube video above
 
 Enjoy!
