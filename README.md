@@ -25,7 +25,9 @@ FOLLOW THE NEW TUTORIAL BELOW!
 
 A short and simple tutorial:
 
-- Download the NEW .zip file from the releases page here:
+- Download the NEW .zip file Called:
+  "Google Translate Chrome 2.0.13 (NO AUTO UPDATE).zip"
+  from the releases page here:
   https://github.com/03stevensmi/Google-Translate-Previous-Extension-2.0.13-/releases/
 
 - Extract the zip file
