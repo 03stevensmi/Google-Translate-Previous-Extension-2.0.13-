@@ -14,8 +14,9 @@ yeah, Dont download anything from crx4chrome, its fake.
 When extracted, its not a chrome extention, 
 but a .com exe that i would put money on that it's a virus. 
 
-==PLEASE READ!==
-UPDATE:
+- ==PLEASE READ!==
+
+- UPDATE:
 I HAVE CHANGED THE VERSION NUMBER IN THE "manifest.json" FILE FROM VERSION 2.0.13 TO 999992.0.13!
 THIS WILL FIX THE PLUGIN FROM AUTOMATICALLY UPDATING!
 YOU CAN FIND THE CHANGES TO THIS PLUGIN IN THE "NO-AUTO-UPDATES" BRANCH!
