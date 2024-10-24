@@ -25,6 +25,8 @@ FOLLOW THE NEW TUTORIAL BELOW!
 
 A short and simple tutorial:
 
+- Remove the translate plugin from chrome
+
 - Download the NEW .zip file Called:
   "Google Translate Chrome 2.0.13 (NO AUTO UPDATE).zip"
   from the releases page here:
