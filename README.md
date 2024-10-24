@@ -31,7 +31,7 @@ A short and simple tutorial:
   "Google Translate Chrome 2.0.13 (NO AUTO UPDATE).zip"
   from the releases page here:
   https://github.com/03stevensmi/Google-Translate-Previous-Extension-2.0.13-/releases/
-  ==DO NOT DOWNLOAD "translate_2.0.13.zip"==
+- DO NOT DOWNLOAD "translate_2.0.13.zip" (thats there for archival as its the original extention that auto updates)
 
 - Extract the zip file
 
